@@ -1,3 +1,6 @@
 [submodule "Task1_.NET_Course"]
 	path = Task1_.NET_Course
 	url = https://github.com/StephanKalika/.NET_Course
+[submodule "Task2_.NET_Course"]
+	path = Task2_.NET_Course
+	url = https://github.com/StephanKalika/.NET_Course
